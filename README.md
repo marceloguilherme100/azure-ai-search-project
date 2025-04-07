@@ -1,31 +1,26 @@
-Projeto - Azure AI Search
-Objetivo
-Este projeto demonstra como configurar e utilizar a Pesquisa Cognitiva (Azure AI Search) para extrair informações valiosas de documentos e dados não estruturados.
 
-Passo a Passo
-Criar o serviço Azure AI Search no portal da Azure.
+# Projeto Azure AI Search - DIO
 
-Criar um índice de busca.
+## Passo a Passo para Configuração da Pesquisa Cognitiva
 
-Fazer upload de documentos ou integrar com base de dados.
+1. Acessar o portal do Azure.
+2. Criar um recurso Azure Cognitive Search.
+3. Definir um Indexador com os dados desejados (documentos, imagens, etc).
+4. Configurar a habilidade de IA para extração de informações.
+5. Testar as pesquisas utilizando consultas simples e avançadas.
 
-Configurar campos de busca.
+## Insights
 
-Testar consultas inteligentes.
+- Permite realizar pesquisas inteligentes dentro de grandes volumes de dados.
+- Ótimo recurso para sistemas de busca interna de empresas.
+- Pode ser integrado com sites, aplicativos, e sistemas corporativos.
 
-Insights
-A pesquisa cognitiva permite buscas avançadas com IA.
+## Ferramentas Beneficiadas
 
-Pode ser aplicada em sites, aplicativos, e sistemas internos.
+- Sistemas de Help Desk.
+- Sites com busca personalizada.
+- Aplicações de análise documental.
 
-Excelente para buscar em documentos PDF, imagens com texto (OCR), entre outros.
+## Aprendizado
 
-Possibilidades de Uso
-E-commerce (busca de produtos)
-
-Sistemas Jurídicos (busca em documentos)
-
-Aplicativos de RH (busca em currículos)
-
-Aprendizado
-Aprendi a importância de indexar dados corretamente e o poder da IA aplicada à pesquisa de informações em diferentes formatos
+Com este projeto aprendi a utilizar os recursos de pesquisa cognitiva do Azure, melhorando a extração de informações e otimizando a busca por dados relevantes.
